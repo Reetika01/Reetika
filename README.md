@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Reetika Kachchhwa👋</h1>
+<h1 align="center">Hi there, I am Reetika👋</h1>
 
 -🌟 A woman who is ready to make impactful entrance into the world of tech & data
 
